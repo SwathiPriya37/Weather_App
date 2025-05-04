@@ -29,7 +29,7 @@ A simple, interactive weather application that allows users to check current wea
 ## API Integration
 This app uses the OpenWeatherMap API. The free tier allows up to 1,000 API calls per day.
 
-## Troubleshooting
+## Trouble shooting
 - Make sure the script tag is placed at the bottom of the body element or has the `defer` attribute
 - Check that all image paths are correct and files exist in the images directory
 - Ensure your API key is valid and correctly entered in the script
