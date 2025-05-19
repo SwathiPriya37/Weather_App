@@ -1,4 +1,4 @@
-# Weather_App
+# Weather App
 
 ## Description
 A simple, interactive weather application that allows users to check current weather conditions for any city around the world. The app displays temperature, humidity, wind speed, and weather icons based on current conditions.
